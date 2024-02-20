@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    margin: 20px;
+}
+
+a{
+    color: aquamarine;
+    font-size: 16px;
+    
+}
+
+h1{
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+#author_rights{
+    text-align: right;
+}
+video, img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
