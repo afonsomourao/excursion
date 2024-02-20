@@ -40,4 +40,6 @@ video, img{
     margin-right: auto;
 }
 
-
+img{
+    size: 70%;
+}
